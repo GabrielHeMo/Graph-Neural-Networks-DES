@@ -1,0 +1,71 @@
+Name,SMILES
+"1,2,4-Triazole",C1=NC=NN1
+"1,2-Butanediol",CCC(O)CO
+"1,2-Decanediol",CCCCCCCCC(CO)O
+"1,2-Propanediol",CC(O)CO
+"1,3-Propanediol",C(CO)CO
+"1,4-Butanediol",OCCCCO
+10-Undecylenic acid,C=CCCCCCCCCC(=O)O
+1-Napthol,C1=CC=C2C(=C1)C=CC=C2O
+1-Tetradecanol,CCCCCCCCCCCCCCO
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F
+"2,3-Butanediol",CC(O)C(C)O
+2-Methoxyphenol,OC1=CC=CC=C1OC
+3-Methoxyphenol,COC1=CC=CC(=C1)O
+4-Methoxyphenol,COC1=CC=C(C=C1)O
+Acetamide,CC(=O)N
+Acetic acid,CC(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Caprolactam,C1CCC(=O)NCC1
+Choline chloride,C[N+](C)(C)CCO.[Cl-]
+Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2
+D-camphor,C[C@@]12CC[C@H](C1(C)C)CC2=O
+Decanoic acid,CCCCCCCCCC(=O)O
+D-fructose,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O
+D-glucose,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+Diethylene glycol,OCCOCCO
+DL-camphor,CC1(C2CCC1(C(=O)C2)C)C
+DL-lactic acid,CC(C(=O)O)O
+DL-menthol,CC1CCC(C(C1)O)C(C)C
+DL-xylitol,C([C@H](C([C@H](CO)O)O)O)O
+D-mannose,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O
+Dodecanoic acid,CCCCCCCCCCCC(O)=O
+D-ribose,C1[C@H]([C@H]([C@H](C(O1)O)O)O)O
+D-sorbitol,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O
+D-xylose,C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
+Ethanolamine,C(CO)N
+Ethylene glycol,OCCO
+Ethylparaben,CCOC(=O)C1=CC=C(C=C1)O
+Glutaric acid,C(CC(=O)O)CC(=O)O
+Glycerol,OCC(O)CO
+Glycolic acid,C(C(=O)O)O
+Guanidine isothiocyanate,C(#N)[S-].C(=N)(N)N
+Hexadecanoic acid,CCCCCC(=O)O
+Hexafluoroisopropanol,C(C(F)(F)F)(C(F)(F)F)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Imidazole,c1c[nH]cn1
+L-arginine,C(C[C@@H](C(=O)O)N)CN=C(N)N
+L-aspartic acid,C([C@@H](C(=O)O)N)C(=O)O
+L-borneol,C[C@@]12CC[C@@H](C1(C)C)C[C@@H]2O
+LeVulinic acid,CC(=O)CCC(=O)O
+L-glutamic acid,C(CC(=O)O)[C@@H](C(=O)O)N
+L-lactic acid,C[C@@H](C(=O)O)O
+Malonic acid,C(C(=O)O)C(=O)O
+Octadecanoic acid,CCCCCCCCCCCCCCCC=CC(=O)O
+Octanoic acid,CCCCCCCC(=O)O
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O
+P-chlorophenol,C1=CC(=CC=C1O)Cl
+P-cresol,CC1=CC=C(C=C1)O
+Phenol,Oc1ccccc1
+Phenylacetic acid,C1=CC=C(C=C1)CC(=O)O
+Polyethylene glycol,C(CO)O
+Propionic acid,CCC(O)=O
+PyruVic acid,CC(=O)C(O)=O
+Tetradecanoic acid,CCCCCCCCCCCCCC(=O)O
+Tetraethylene glycol,C(COCCOCCOCCO)O
+Tetrazole,C1=NNN=N1
+Thymol,Cc1ccc(C(C)C)c(O)c1
+Trans-sobrerol,CC1=CC[C@H](C[C@@H]1O)C(C)(C)O
+Triethylene glycol,OCCOCCOCCO
+Trioctylphosphine oxide,CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC
+Urea,NC(N)=O

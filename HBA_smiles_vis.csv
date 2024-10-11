@@ -1,0 +1,50 @@
+Name,SMILES
+Acetamide,CC(=O)N
+Acetylcholine chloride,CC(=O)OCC[N+](C)(C)C.[Cl-]
+Allyltriphenylphosphonium bromide,C=CC[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-]
+Ammonium thiocyanate,C(#N)[S-].[NH4+]
+Atropine,CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+Benzyldimethyl(2-hydroxyethyl)ammonium chloride,C[N+](C)(CCO)CC1=CC=CC=C1.[Cl-]
+Benzyltriethylammonium chloride,CC[N+](CC)(CC)Cc1ccccc1.[Cl-]
+Benzyltrimethylammonium chloride,C[N+](C)(C)Cc1ccccc1.[Cl-]
+Benzyltriphenylphosphonium chloride,C1=CC=C(C=C1)C[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.[Cl-]
+Benzyltripropylammonium chloride,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Cl-]
+Betaine,C[N+](C)(C)CC(=O)[O-]
+Choline chloride,C[N+](C)(C)CCO.[Cl-]
+Chromic chloride hexahydrate,O.O.O.O.O.O.Cl[Cr](Cl)Cl
+Decanoic acid,CCCCCCCCCC(=O)O
+Decyltrimethylammonium bromide,CCCCCCCCCC[N+](C)(C)C.[Br-]
+DL-menthol,CC1CCC(C(C1)O)C(C)C
+Dodecyltrimethylammonium bromide,CCCCCCCCCCCC[N+](C)(C)C.[Br-]
+Imidazole,C1=CN=CN1
+L-carnitine,C[N+](C)(C)CC(CC(=O)[O-])O
+Lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
+L-menthol,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C
+L-proline,C1C[C@H](NC1)C(=O)O
+Methyltrioctylammonium bromide,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Br-]
+Methyltrioctylammonium chloride,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-]
+Methyltriphenylphosphonium bromide,C[P+](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3.[Br-]
+"N,N-diethylethanolammonium chloride",CC(C)(C)NCCO.Cl
+Nonanoic acid,CCCCCCCCC(=O)O
+Octanoic acid,CCCCCCCC(=O)O
+Potassium carbonate,C(=O)([O-])[O-].[K+].[K+]
+Sodium dodecanoate,CCCCCCCCCCCC(=O)[O-].[Na+]
+Tetrabutylammonium bromide,CCCC[N+](CCCC)(CCCC)CCCC.[Br-]
+Tetrabutylammonium chloride,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
+Tetrabutylphosphonium bromide,CCCC[P+](CCCC)(CCCC)CCCC.[Br-]
+Tetradecyl-trimethylammonium bromide,CCCCCCCCCCCCCC[N+](CC)(CC)CC.[Br-]
+Tetraethylammonium bromide,CC[N+](CC)(CC)CC.[Br-]
+Tetraethylammonium chloride,CC[N+](CC)(CC)CC.[Cl-]
+Tetraethylammonium p-toluenesulfonate ,CC[N+](CC)(CC)CC.CC1=CC=C(C=C1)S(=O)(=O)[O-]
+Tetraheptylammonium chloride,CCCCCCC[N+](CCCCCCC)(CCCCCCC)CCCCCCC.[Cl-]
+Tetrahexylammonium bromide,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[Br-]
+Tetramethylammonium chloride,C[N+](C)(C)C.[Cl-]
+Tetraoctylammonium bromide,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Br-]
+Tetraoctylammonium chloride,CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.[Cl-]
+Tetrapropylammonium bromide,CCC[N+](CCC)(CCC)CCC.[Br-]
+Tetrapropylammonium chloride,CCC[N+](CCC)(CCC)CCC.[Cl-]
+Thymol,Cc1ccc(C(C)C)c(O)c1
+Triethanolamine,C(CO)N(CCO)CCO
+Triethylmethylammonium chloride,CC[N+](C)(CC)CC.[Cl-]
+Trioctylphosphine oxide,CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC
+Zinc chloride,Cl[Zn]Cl
