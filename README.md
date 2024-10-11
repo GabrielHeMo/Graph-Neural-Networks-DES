@@ -14,7 +14,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0098135424001686},
 author = {Gabriel {Hernández Morales} and Edgar Ivan {Sanchez Medina} and Arturo Jiménez-Gutiérrez and Victor M. Zavala}
 }
 
-# Jupyter Notebook GNN_Viscositu
+# Jupyter Notebook GNN_Viscosity
 
 
 Generates a new GNN-MG to predict viscosity using the dataset reported by : 
@@ -31,3 +31,8 @@ year = {2022},
 doi = {10.1021/acscentsci.2c00157},
 URL = { https://doi.org/10.1021/acscentsci.2c00157},
 eprint = { https://doi.org/10.1021/acscentsci.2c00157}}
+
+# Jupyter Notebook  GA_Code
+
+In this notebook the algortihm NSGA II is implemente from the pymoo library to desing new deep eutectic solvents.
+
